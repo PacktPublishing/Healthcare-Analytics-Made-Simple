@@ -1,8 +1,8 @@
 # Healthcare Analytics Made Simple
 
-<a href="Packt UTM URL of the Book"><img src="https://www.packtpub.com/sites/default/files/B06444.png" alt="Healthcare Analytics Made Simple" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/healthcare-analytics-made-simple?utm_source=github&utm_medium=repository&utm_campaign=9781787286702"><img src="https://www.packtpub.com/sites/default/files/B06444.png" alt="Healthcare Analytics Made Simple" height="256px" align="right"></a>
 
-This is the code repository for [Healthcare Analytics Made Simple](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Healthcare Analytics Made Simple](https://www.packtpub.com/big-data-and-business-intelligence/healthcare-analytics-made-simple?utm_source=github&utm_medium=repository&utm_campaign=9781787286702), published by Packt.
 
 **Subtitle from EPIC**
 
