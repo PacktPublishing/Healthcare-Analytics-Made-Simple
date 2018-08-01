@@ -27,56 +27,46 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+string_1 = '1'
+string_2 = '2'
+string_sum = string_1 + string_2
+print(string_sum)
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+Healthcare Analytics Made Simple is for you if you are a developer who has a working knowledge of Python or a related programming language, although you are new to healthcare or predictive modeling with healthcare data. Clinicians interested in analytics and healthcare computing will also benefit from this book. This book can also serve as a textbook for students enrolled in an introductory course on machine learning for healthcare.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-9).
 
 ### Software and Hardware List
 
-| Chapter  | Software required                   | OS required                        |
-| -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| Chapter  | Software required                      | OS required                          |
+| -------- | ------------------------------------   | ------------------------------------ |
+| 1        | Anaconda: 4.4.0                        |6GB of RAM, i5 Pentium, Windows 10 OS |
+| 4        | Python: 3.6.1                          |6GB of RAM, i5 Pentium, Windows 10 OS |
+| 5        | NumPy: 1.12.1                          |6GB of RAM, i5 Pentium, Windows 10 OS |
+| 6        | pandas: 0.20.1                         |6GB of RAM, i5 Pentium, Windows 10 OS |
+| 7        | scikit-learn: 0.18.1,matplotlib: 2.0.2 |6GB of RAM, i5 Pentium, Windows 10 OS |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
 
-### Related products <Paste books from the Other books you may enjoy section>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/HealthcareAnalyticsMadeSimple_ColorImages.pdf).
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+### Related products 
+* Learning Social Media Analytics with R [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/learning-social-media-analytics-r?utm_source=github&utm_medium=repository&utm_campaign=9781787127524) [[Amazon]](https://www.amazon.com/dp/1787127524)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+* Predictive Analytics with Tensorflow [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/predictive-analytics-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781788398923) [[Amazon]](https://www.amazon.com/dp/1788398920)
 
-**Author Name**
-Bio
+## Get to Know the Author
+**Dr. Vikas (Vik) Kumar**
+ grew up in the United States in Niskayuna, New York. He earned
+his MD from the University of Pittsburgh, but shortly afterwards he discovered his true
+calling of computers and data science. He then earned his MS in the College of Computing
+at Georgia Institute of Technology and has subsequently worked as a data scientist for both
+healthcare and non-healthcare companies. He currently lives in Atlanta, Georgia.
 
 
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
