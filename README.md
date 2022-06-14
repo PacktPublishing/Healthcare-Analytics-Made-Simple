@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B06444?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Healthcare Analytics Made Simple
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/healthcare-analytics-made-simple?utm_source=github&utm_medium=repository&utm_campaign=9781787286702"><img src="https://www.packtpub.com/sites/default/files/B06444.png" alt="Healthcare Analytics Made Simple" height="256px" align="right"></a>
